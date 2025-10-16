@@ -47,7 +47,7 @@ pip install -r requirements.txt
 Questions, bugs or suggestions to : huxnain.cs@gmail.com
 
 # LICENSE
-<!-- - [x] WhatsOSINT is licensed. 
-- [x] See [LICENSE](https://github.com/HackUnderway/WhatsOSINT#MIT-1-ov-file) for more information. -->
+- [x] WhatsOSINT is licensed. 
+- [x] See [LICENSE](https://github.com/HusnainCS/WhatsInfo?tab=MIT-1-ov-file#readme) for more information.
 
 © 2025
