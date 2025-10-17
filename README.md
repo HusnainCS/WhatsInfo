@@ -46,6 +46,9 @@ pip install -r requirements.txt
 # SUPPORT
 Questions, bugs or suggestions to : huxnain.cs@gmail.com
 
+# COLLABORATORS
+- https://github.com/crazyitx3
+- crazyitx3@gmail.com
 # LICENSE
 - [x] WhatsInfo is licensed. 
 - [x] See [LICENSE](https://github.com/HusnainCS/WhatsInfo#MIT-1-ov-file) for more information. 
